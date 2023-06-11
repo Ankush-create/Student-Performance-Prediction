@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
 name='Student Performance Prediction',
-version='0.0.1',
+version='1.0.0',
 author='Ankush',
 author_email='mr.ankushsharma2@gmail.com',
 packages=find_packages(),
